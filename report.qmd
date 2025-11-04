@@ -9,7 +9,7 @@ format: typst
 
 ```{r}
 
-```
+```late
 
 ## **Part 1:** **Defining Research Question**
 
